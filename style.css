@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: pink;
+    width: 100vw;
+    height: 10rem;
+}
+section{
+    background-color: aquamarine;
+    width: 100vw;
+    height: 15rem;
+}
+footer{
+    background-color: cadetblue;
+    width: 100vw;
+    height: 6rem;
+}
